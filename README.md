@@ -1,4 +1,5 @@
-code implem is data prep file - works finished
-dataset file to be uploaded - need to download and upload
-GRU CS file to be uploaded - in progress (almost done) evaluation left over
-FinRL agents file to be uploaded - finished build, evaluation left over
+1. code implem is data prep file - finished
+2. datasets will be named as FinRL related or GRU-CS related (an additional DBN dataset is included just for viewing but this was not used anywhere)
+3. GRU CS file to be uploaded - finished
+4. Logistic Regression DBN baseline - finished
+5. FinRL agents file to be uploaded - finished
